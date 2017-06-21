@@ -2,7 +2,7 @@
 
 ## 중요
 
-package de.mxapplications.androiddrawersheet;
+package de.mxapplications.androiddrawersheet.AndroidDrawerSheet;
 
 private boolean mStickyDrag = true; (이값을 수정하면 sticky 비적용)
 
